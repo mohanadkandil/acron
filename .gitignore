@@ -1,0 +1,24 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output / build dirs
+bin/
+dist/
+build/
+
+# Local Go caches (useful in restricted environments)
+.cache/
+.gopath/
+
+# Go coverage
+coverage.out
+
+# IDE/editor
+.DS_Store
+.idea/
+.vscode/
+
+
